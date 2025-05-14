@@ -1,0 +1,21 @@
+@font-face {
+  font-family: barney;
+  src: url(./assets/fonts/BARNEY\ POP.ttf);
+}
+
+.App {
+  text-align: center;
+  font-family: barney;
+}
+
+body {
+  background-image: url(./assets/images/forest2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+#loginLogoutBtnsDiv {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}

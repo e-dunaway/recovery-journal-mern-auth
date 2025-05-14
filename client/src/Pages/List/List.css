@@ -1,0 +1,20 @@
+#cardDiv {
+  margin: 20px;
+}
+
+#listContainer {
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+#card {
+  color: rgb(230, 204, 179);
+  background-color: rgba(100,100,50,.5);
+  border: 5px solid black;
+  text-shadow: 2px 4px 15px black;
+}
+
+#userWelcome {
+  margin-top: 30px;
+  color: rgb(230, 204, 179);
+}

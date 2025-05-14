@@ -1,0 +1,15 @@
+/* @font-face {
+  font-family: ;
+  src: url();
+} */
+
+#titleHome {
+  margin-top: 50px;
+  font-size: 60px;
+  color: white;
+  text-shadow: 4px 8px 15px;
+}
+
+.caps {
+  color: white;
+}
