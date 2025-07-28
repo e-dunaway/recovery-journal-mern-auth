@@ -9,7 +9,10 @@
 }
 
 body {
-  background-image: url(./assets/images/forest2.jpeg);
+  background-image: linear-gradient(to bottom, black, gray);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;  
 }
